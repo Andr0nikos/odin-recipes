@@ -1,0 +1,51 @@
+
+* {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    box-sizing:border-box;
+
+}
+
+li {
+    font-family:'Courier New', Courier, monospace;
+    color: blue;
+
+
+}
+
+.ing {
+    font-weight: bold;
+    font-size: 18px;
+    color: red;
+
+
+}
+
+#para-descrip {
+    font-size: 20px;
+}
+
+
+.title{
+    margin: 16px 8px 8px 8px;
+    padding: 8px;
+    background-color: bisque;
+
+}
+
+.recipetitle{
+    margin: 16px 8px 8px 8px;
+    padding: 8px;
+    background-color:lightblue;
+
+}
+
+.content{
+    margin: 8px;
+
+}
+
+.recipelist {
+    margin: 8px;
+    padding: 8px;
+    text-align: center;
+}
